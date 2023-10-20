@@ -7,8 +7,9 @@ systems are typically used by businesses that sell or make products in order to 
 the tangible goods that enable the sale of finished goods or component parts.
 
 Modules:
-1.Login: Management login using account id and password.
-2.CRUD Operations for:
+1. Login: Management login using account id and password.
+   
+2. CRUD Operations for:
 - Manufacturing Management
 - Supplier Management
 - Product Management
