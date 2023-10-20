@@ -6,6 +6,10 @@ is the practice of monitoring and regulating a company's stock items. Inventory 
 systems are typically used by businesses that sell or make products in order to keep track of all
 the tangible goods that enable the sale of finished goods or component parts.
 
+Software Used :
+1. Python
+2. MongoDb database
+   
 Modules:
 1. Login: Management login using account id and password.
    
